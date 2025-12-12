@@ -1,6 +1,6 @@
 # Android-Chat-App
 
-Android chat application developed with Java and xml and Firebase. A verly friendly app to communicate, it is easy to use for everyone. 
+Android chat application developed with Java and xml and Firebase. A verly friendly app to communicate. 
 ## Features : 
 * message texts
 * Add contacts
