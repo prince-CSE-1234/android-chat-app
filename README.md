@@ -1,11 +1,20 @@
 # Android-Chat-App
 
 Android chat application developed with Java and Firebase. A hassle-free way to communicate. 
-### Features : 
+## Features : 
 * message texts
 * Add contacts
 * edit profile credentials
 * Notifications with firebase cloud messaging
+* User can register with phone number
+* User can add personal info such name, profile image
+* User can see userlist who are using TextChat from his/her mobile contact
+* User can see who is online
+* User can send text message each other
+* User can chat by group
+* User can see notification if someone message
+
+
 
 ## Screenshots : 
 
